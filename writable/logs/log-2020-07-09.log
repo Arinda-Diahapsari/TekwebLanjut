@@ -1,0 +1,797 @@
+CRITICAL - 2020-07-09 09:26:03 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:26:07 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:26:08 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:26:08 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:26:08 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:26:08 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:26:09 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:26:09 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:26:09 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:26:09 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:26:09 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:26:38 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:26:51 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:27:49 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:28:45 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:03 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:24 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:24 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:24 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:24 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:24 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:24 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:25 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:25 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:25 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:25 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:25 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:26 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:26 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:26 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:26 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:26 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:27 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:27 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:27 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:29:27 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:34:03 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:34:03 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:34:03 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:34:04 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:34:04 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:34:04 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:34:05 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:34:12 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:45:11 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:47:43 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:47:44 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:47:45 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 09:56:13 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 10:03:51 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 10:09:11 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 10:09:13 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 10:09:13 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 10:09:13 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 10:09:14 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 10:09:14 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 10:09:14 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 10:09:14 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 10:38:33 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ci4App\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-09 10:47:47 --> syntax error, unexpected ';', expecting ')'
+#0 C:\xampp\htdocs\ci4App\system\Common.php(1087): CodeIgniter\View\View->render('user_form', Array, true)
+#1 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(7): view('user_form')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-09 10:47:49 --> syntax error, unexpected ';', expecting ')'
+#0 C:\xampp\htdocs\ci4App\system\Common.php(1087): CodeIgniter\View\View->render('user_form', Array, true)
+#1 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(7): view('user_form')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-09 10:47:50 --> syntax error, unexpected ';', expecting ')'
+#0 C:\xampp\htdocs\ci4App\system\Common.php(1087): CodeIgniter\View\View->render('user_form', Array, true)
+#1 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(7): view('user_form')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-09 10:47:50 --> syntax error, unexpected ';', expecting ')'
+#0 C:\xampp\htdocs\ci4App\system\Common.php(1087): CodeIgniter\View\View->render('user_form', Array, true)
+#1 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(7): view('user_form')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-09 10:48:50 --> syntax error, unexpected '?>', expecting ')'
+#0 C:\xampp\htdocs\ci4App\system\Common.php(1087): CodeIgniter\View\View->render('user_form', Array, true)
+#1 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(7): view('user_form')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-09 10:48:51 --> syntax error, unexpected '?>', expecting ')'
+#0 C:\xampp\htdocs\ci4App\system\Common.php(1087): CodeIgniter\View\View->render('user_form', Array, true)
+#1 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(7): view('user_form')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-09 10:48:52 --> syntax error, unexpected '?>', expecting ')'
+#0 C:\xampp\htdocs\ci4App\system\Common.php(1087): CodeIgniter\View\View->render('user_form', Array, true)
+#1 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(7): view('user_form')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-09 10:50:22 --> syntax error, unexpected '?>', expecting ')'
+#0 C:\xampp\htdocs\ci4App\system\Common.php(1087): CodeIgniter\View\View->render('user_form', Array, true)
+#1 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(7): view('user_form')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-09 10:50:22 --> syntax error, unexpected '?>', expecting ')'
+#0 C:\xampp\htdocs\ci4App\system\Common.php(1087): CodeIgniter\View\View->render('user_form', Array, true)
+#1 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(7): view('user_form')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-09 10:50:23 --> syntax error, unexpected '?>', expecting ')'
+#0 C:\xampp\htdocs\ci4App\system\Common.php(1087): CodeIgniter\View\View->render('user_form', Array, true)
+#1 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(7): view('user_form')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-09 10:50:23 --> syntax error, unexpected '?>', expecting ')'
+#0 C:\xampp\htdocs\ci4App\system\Common.php(1087): CodeIgniter\View\View->render('user_form', Array, true)
+#1 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(7): view('user_form')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-09 10:50:23 --> syntax error, unexpected '?>', expecting ')'
+#0 C:\xampp\htdocs\ci4App\system\Common.php(1087): CodeIgniter\View\View->render('user_form', Array, true)
+#1 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(7): view('user_form')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-09 10:50:24 --> syntax error, unexpected '?>', expecting ')'
+#0 C:\xampp\htdocs\ci4App\system\Common.php(1087): CodeIgniter\View\View->render('user_form', Array, true)
+#1 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(7): view('user_form')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-09 10:50:24 --> syntax error, unexpected '?>', expecting ')'
+#0 C:\xampp\htdocs\ci4App\system\Common.php(1087): CodeIgniter\View\View->render('user_form', Array, true)
+#1 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(7): view('user_form')
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#3 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-09 10:53:08 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-09 10:53:47 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-09 22:13:59 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-09 22:20:57 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-09 22:23:24 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-09 22:25:53 --> Access denied for user ''@'localhost' (using password: NO)
+#0 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4App\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\ci4App\app\Models\M_user.php(10): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(18): App\Models\M_user->get_data('', '')
+#5 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#6 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-07-09 22:25:58 --> Access denied for user ''@'localhost' (using password: NO)
+#0 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4App\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\ci4App\app\Models\M_user.php(10): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(18): App\Models\M_user->get_data('', '')
+#5 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#6 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-07-09 22:26:48 --> Access denied for user ''@'localhost' (using password: NO)
+#0 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4App\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\ci4App\app\Models\M_user.php(10): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(18): App\Models\M_user->get_data('nissasyifasgt@g...', 'sasasd')
+#5 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#6 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-07-09 22:33:12 --> Access denied for user ''@'localhost' (using password: NO)
+#0 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4App\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\ci4App\app\Models\M_user.php(10): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(18): App\Models\M_user->get_data('nissasyifasgt@g...', 'ds')
+#5 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#6 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-07-09 22:45:46 --> Access denied for user ''@'localhost' (using password: NO)
+#0 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4App\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\ci4App\app\Models\M_user.php(10): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(18): App\Models\M_user->get_data('nissasyifasgt@g...', 'ds')
+#5 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#6 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-07-09 22:46:08 --> No database selected
+#0 C:\xampp\htdocs\ci4App\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4App\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4App\app\Models\M_user.php(10): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(18): App\Models\M_user->get_data('nissasyifasgt@g...', 'ds')
+#6 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#7 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-09 22:54:13 --> No database selected
+#0 C:\xampp\htdocs\ci4App\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4App\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4App\app\Models\M_user.php(10): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(18): App\Models\M_user->get_data('nissasyifasgt@g...', 'ds')
+#6 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#7 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-09 22:54:57 --> No database selected
+#0 C:\xampp\htdocs\ci4App\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4App\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4App\app\Models\M_user.php(10): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(18): App\Models\M_user->get_data('nissasyifasgt@g...', 'ds')
+#6 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#7 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-09 22:55:04 --> No database selected
+#0 C:\xampp\htdocs\ci4App\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4App\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4App\app\Models\M_user.php(10): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(18): App\Models\M_user->get_data('nissasyifasgt@g...', 'ds')
+#6 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#7 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-09 22:58:46 --> No database selected
+#0 C:\xampp\htdocs\ci4App\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4App\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4App\app\Models\M_user.php(10): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(18): App\Models\M_user->get_data('arinda12@gmail....', 'arinda')
+#6 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#7 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-09 23:21:12 --> No database selected
+#0 C:\xampp\htdocs\ci4App\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4App\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4App\app\Models\M_user.php(10): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(18): App\Models\M_user->get_data('arinda12@gmail....', 'arinda')
+#6 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#7 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-09 23:30:12 --> Unknown column 'user+pass' in 'where clause'
+#0 C:\xampp\htdocs\ci4App\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4App\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4App\app\Models\M_user.php(10): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(18): App\Models\M_user->get_data('arinda12@gmail....', 'arinda')
+#6 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#7 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-09 23:31:29 --> Unknown column 'user+pass' in 'where clause'
+#0 C:\xampp\htdocs\ci4App\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4App\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4App\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4App\app\Models\M_user.php(10): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4App\app\Controllers\Login.php(18): App\Models\M_user->get_data('arinda12@gmail....', 'addd')
+#6 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#7 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\xampp\htdocs\ci4App\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4App\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\ci4App\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
